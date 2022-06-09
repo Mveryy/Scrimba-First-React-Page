@@ -1,6 +1,6 @@
 import "./MainContent.css";
 import email from "../../images/email-icon.svg";
-import linkedIn from "../../images/linkedIn-icon.svg";
+import linkedIn from "../../images/linkedin-icon.svg";
 
 export default function MainContent() {
     return (
