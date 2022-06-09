@@ -6,7 +6,7 @@
 }
 
 body {
-    height: 100vh;
+    height: fit-content;
     background-color: #23252c;
 
     display: flex;
