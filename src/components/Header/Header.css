@@ -1,0 +1,7 @@
+.header {
+    width: 317px;
+    height: 317px;
+    background: url(../../images/image.jpg);
+    background-position: top right;
+    border-radius: 10px 10px 0px 0px;
+}
